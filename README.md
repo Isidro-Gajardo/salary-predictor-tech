@@ -23,12 +23,12 @@ Developer Survey 2025 (49.191 respuestas, 177 países).
 
 
 
-salary-predictor-tech/
-  data/                          # Dataset Stack Overflow 2025
-  notebooks/
-    01_exploracion.ipynb      # Análisis completo + modelo ML
-  requirements.txt
-  README.md
+- salary-predictor-tech/
+-   data/                          # Dataset Stack Overflow 2025
+-   notebooks/
+-     01_exploracion.ipynb      # Análisis completo + modelo ML
+-   requirements.txt
+-   README.md
 
 ## Dataset
 
